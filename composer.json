@@ -73,10 +73,10 @@
         },
         "laravel": {
             "providers": [
-                "Backpack\\CRUD\\BackpackServiceProvider"
+                "Xylophone\\CRUD\\XylophoneServiceProvider"
             ],
             "aliases": {
-                "CRUD": "Backpack\\CRUD\\app\\Library\\CrudPanel\\CrudPanelFacade"
+                "CRUD": "Xylophone\\CRUD\\app\\Library\\CrudPanel\\CrudPanelFacade"
             }
         }
     }
